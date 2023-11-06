@@ -3,8 +3,6 @@
 ## This is my first Data Analyst Project
 
 - **Data: Wealth of Nations Project**
-<img width="1035" alt="Screenshot 2023-11-06 at 14 06 36" src="https://github.com/PaulIsmael/Excel-and-Tableau-Project/assets/150025834/7ec36ce0-58ba-4a6f-93fb-1c72227751cc">
-
 
 Skill:
 
@@ -24,8 +22,9 @@ This GitHub repository showcases my data analysis skills through a project cente
 
 This project serves as a testament to my data analyst skills and my ability to convert raw data into valuable insights and visualizations.
 
-- **License**
+- **License**: This project is licensed under the MIT License - you are free to use, share, and modify the code, but please provide proper attribution and adhere to the terms of the license.
 
-This project is licensed under the MIT License - you are free to use, share, and modify the code, but please provide proper attribution and adhere to the terms of the license.
+[Link to my dashboard]([URL from tableau dashboard](https://public.tableau.com/app/profile/paul.ismael/viz/Assignment1Datavisualisation_16935923608640/Dashboard1))
+<img width="1035" alt="Screenshot 2023-11-06 at 14 06 36" src="https://github.com/PaulIsmael/Excel-and-Tableau-Project/assets/150025834/7ec36ce0-58ba-4a6f-93fb-1c72227751cc">
 
 For more detailed information, explore the [full project README](link_to_readme) in this repository.
