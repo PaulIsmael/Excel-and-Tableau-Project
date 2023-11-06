@@ -4,10 +4,6 @@
 
 - **Data: Wealth of Nations Project**
 
-Skill:
-
-Reflection:
-
 # Project Summary
 
 This GitHub repository showcases my data analysis skills through a project centered on the "Wealth of Nations" dataset. The project involves data cleaning, data transformation, and data visualization using Excel and Tableau.
