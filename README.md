@@ -6,3 +6,19 @@ Data:
 Skill:
 
 Reflection:
+
+# Project Summary
+
+This GitHub repository showcases my data analysis skills through a project centered on the "Wealth of Nations" dataset. The project involves data cleaning, data transformation, and data visualization using Excel and Tableau.
+
+## Key Highlights:
+
+- **Data Cleaning**: In Excel, I meticulously cleaned the "Wealth of Nations" dataset, addressing missing values, outliers, and ensuring data quality.
+
+- **Data Transformation**: I applied data transformation techniques to reshape and structure the data for meaningful insights and analysis.
+
+- **Data Visualization**: Using Tableau, I created a dynamic dashboard that visually represents the transformed data, making it accessible and actionable.
+
+This project serves as a testament to my data analyst skills and my ability to convert raw data into valuable insights and visualizations.
+
+For more detailed information, explore the [full project README](link_to_readme) in this repository.
