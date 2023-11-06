@@ -1,7 +1,9 @@
 # Excel-and-Tableau-Project
 
 This is my first Data Analyst Project.
-Data:
+Data: Wealth of Nation Project
+<img width="1035" alt="Screenshot 2023-11-06 at 14 06 36" src="https://github.com/PaulIsmael/Excel-and-Tableau-Project/assets/150025834/7ec36ce0-58ba-4a6f-93fb-1c72227751cc">
+
 
 Skill:
 
