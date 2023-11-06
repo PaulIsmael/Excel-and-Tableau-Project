@@ -23,4 +23,8 @@ This GitHub repository showcases my data analysis skills through a project cente
 
 This project serves as a testament to my data analyst skills and my ability to convert raw data into valuable insights and visualizations.
 
+- **License**
+
+This project is licensed under the MIT License - you are free to use, share, and modify the code, but please provide proper attribution and adhere to the terms of the license.
+
 For more detailed information, explore the [full project README](link_to_readme) in this repository.
